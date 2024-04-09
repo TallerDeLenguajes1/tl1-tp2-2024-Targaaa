@@ -1,0 +1,2 @@
+¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+No puedo ver el archivo porque fue creado en la rama de opcion_2 y en este archivo estoy parado en la rama principal.
